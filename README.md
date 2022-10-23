@@ -9,7 +9,7 @@ This project aims to demonstrate the use of React Hooks (useState, useEffect).
 The object of the game is to roll the dice until the player gets all dice on the same number.
 Best scores are saved to local storage.
 
-Live Site: 
+Live Site: https://tenzi-by-alphfonti.netlify.app/
 
 ## Built with
 
